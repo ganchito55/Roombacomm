@@ -450,6 +450,11 @@ public abstract class RoombaComm {
 		drive(0, 0);
 	}
 
+	/**
+	 * Array of light bump signals.
+	 * Index 0 = package id 46 (Light Bump Left Signal)
+	 * Index 5 = package id 51 (Light Bump Right Signal)
+	 */
 	public short[] getIrFront() {
 		short[] irValues = new short[6];
 		irValues[0] = toShort(sensor_bytes[0], sensor_bytes[1]);
