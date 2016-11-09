@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/roomba/!svn/ver/21/roombacomm/rxtxlib
+END
+rxtxSerial.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/roomba/!svn/ver/2/roombacomm/rxtxlib/rxtxSerial.dll
+END
+README.rxtx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/roomba/!svn/ver/2/roombacomm/rxtxlib/README.rxtx
+END
+librxtxSerial.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/roomba/!svn/ver/21/roombacomm/rxtxlib/librxtxSerial.jnilib
+END
+macosx_setup.command.old
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/roomba/!svn/ver/2/roombacomm/rxtxlib/macosx_setup.command.old
+END
+macosx_setup.command
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/roomba/!svn/ver/2/roombacomm/rxtxlib/macosx_setup.command
+END
+bluecove-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/roomba/!svn/ver/21/roombacomm/rxtxlib/bluecove-2.1.0.jar
+END
+RXTXcomm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/roomba/!svn/ver/21/roombacomm/rxtxlib/RXTXcomm.jar
+END
+librxtxSerial.so
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/roomba/!svn/ver/2/roombacomm/rxtxlib/librxtxSerial.so
+END

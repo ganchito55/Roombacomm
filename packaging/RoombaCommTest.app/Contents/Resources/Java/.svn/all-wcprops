@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/roomba/!svn/ver/2/roombacomm/packaging/RoombaCommTest.app/Contents/Resources/Java
+END
+librxtxSerial.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/roomba/!svn/ver/2/roombacomm/packaging/RoombaCommTest.app/Contents/Resources/Java/librxtxSerial.jnilib
+END
+roombacomm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/roomba/!svn/ver/2/roombacomm/packaging/RoombaCommTest.app/Contents/Resources/Java/roombacomm.jar
+END
+RXTXcomm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/roomba/!svn/ver/2/roombacomm/packaging/RoombaCommTest.app/Contents/Resources/Java/RXTXcomm.jar
+END
