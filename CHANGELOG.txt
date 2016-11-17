@@ -1,3 +1,6 @@
+Changes in Roombacomm 0.97
+- I added support for frontal IR sensors.
+
 Changes in Roombacomm 0.96
 --------------------------
 - The primary goal of this release was to enable Roomba 500 models, 
